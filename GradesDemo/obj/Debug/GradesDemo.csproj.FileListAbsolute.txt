@@ -1,0 +1,12 @@
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\bin\Debug\GradesDemo.exe.config
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\bin\Debug\GradesDemo.exe
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\bin\Debug\GradesDemo.pdb
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.csproj.AssemblyReference.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.Form1.resources
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.Properties.Resources.resources
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.csproj.GenerateResource.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.csproj.CoreCompileInputs.cache
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.exe
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.pdb
+C:\Users\achaa\Documents\Douglas College\Fall 2022\Introduction to Programming\GradesDemo\GradesDemo\obj\Debug\GradesDemo.SecondForm.resources
